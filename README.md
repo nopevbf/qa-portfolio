@@ -36,9 +36,13 @@ qa-portfolio/
 
 ## Daftar project QA
 
-| Project/Repo | Jenis Pengujian | Artefak |
-| --- | --- | --- |
-| Tambahkan nama project di sini | Manual / API / Automation | Link repo, file test case, bug report, atau evidence |
+| Project/Repo                                                                          | Jenis Pengujian   | Tech Stack  | Artefak                               |
+| ------------------------------------------------------------------------------------- | ----------------- | ----------- | ------------------------------------- |
+| [Playwright-Tutorial-Indo](https://github.com/nopevbf/Playwright-Tutorial-Indo)       | Automation        | TypeScript  | Test scripts, automation framework    |
+| [Android Automation](https://github.com/nopevbf/android-automation)                   | Mobile Automation | HTML/Mobile | Mobile test automation, test cases    |
+| [Robotframework-Basic](https://github.com/nopevbf/Robotframework-Basic)               | Automation        | Python      | Robot Framework scripts, test suites  |
+| [Selenium UI Testing Java](https://github.com/nopevbf/Selenium-UI-Testing-Java)       | UI Testing        | Java        | Selenium test cases, test reports     |
+| [Quality Assurance SkillTest](https://github.com/nopevbf/Quality-Assurance-SkillTest) | Testing           | Java        | QA test cases, test execution results |
 
 ## Cara pakai repo ini
 
